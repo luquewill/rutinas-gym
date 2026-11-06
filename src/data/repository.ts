@@ -23,7 +23,7 @@ export const AJUSTES_DEFAULT: Ajustes = { descansoDefault: 90, vibracion: true, 
 export function validarBackup(x: unknown): BackupV1 {
   const b = x as Partial<BackupV1>
   if (!b || typeof b !== 'object' || b.version !== 1 || !Array.isArray(b.sesiones) || !b.ajustes) {
-    throw new Error('El archivo no es un respaldo válido de Rutinas Gym.')
+    throw new Error('El archivo no es un respaldo válido de Rutina+.')
   }
   return b as BackupV1
 }

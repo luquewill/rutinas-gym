@@ -28,8 +28,8 @@ export default defineConfig({
         ],
       },
       manifest: {
-        name: 'Rutinas Gym',
-        short_name: 'Rutinas',
+        name: 'Rutina+',
+        short_name: 'Rutina+',
         description: 'Armá tu semana de entrenamiento y seguí tus series.',
         lang: 'es-AR',
         theme_color: '#0A0A0A',

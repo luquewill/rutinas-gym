@@ -17,7 +17,7 @@ export default function Ajustes({ onVolver }: { onVolver: () => void }) {
     const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' })
     const a = document.createElement('a')
     a.href = URL.createObjectURL(blob)
-    a.download = `rutinas-gym-${hoyISO()}.json`
+    a.download = `rutina-mas-${hoyISO()}.json`
     a.click()
     URL.revokeObjectURL(a.href)
     setMsg({ tipo: 'info', texto: 'Listo: se descargó tu respaldo.' })

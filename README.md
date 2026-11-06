@@ -1,4 +1,4 @@
-# Rutinas Gym
+# Rutina+
 
 App web de rutinas de gimnasio, mobile-first e instalable en el celu (PWA). Español de Argentina.
 Armás tu semana, la app te recomienda ejercicios, y en el gimnasio marcás series, anotás pesos y usás el temporizador de descanso.
