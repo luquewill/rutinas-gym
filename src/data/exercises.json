@@ -1,0 +1,2417 @@
+[
+ {
+  "id": "press-banca-plano",
+  "nombre": "Press de banca plano",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "triceps",
+   "hombro_frontal"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 4,
+  "repsDefault": "6-10",
+  "descansoDefault": 120,
+  "unilateral": false,
+  "tecnica": [
+   "Escápulas juntas y pecho arriba",
+   "Bajá la barra controlada hasta rozar el pecho",
+   "Pies firmes en el piso"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-banca-plano.mp4",
+   "poster": "media/ejercicios/press-banca-plano.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-banca-mancuernas",
+  "nombre": "Press de banca con mancuernas",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "triceps",
+   "hombro_frontal"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Bajá hasta sentir el estiramiento del pecho",
+   "Codos a unos 45° del torso",
+   "Subí sin chocar las mancuernas"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-banca-mancuernas.mp4",
+   "poster": "media/ejercicios/press-banca-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-inclinado-mancuernas",
+  "nombre": "Press inclinado con mancuernas",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "hombro_frontal",
+   "triceps"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Banco a 30°, no más",
+   "Empujá en diagonal hacia arriba",
+   "No rebotes abajo"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-inclinado-mancuernas.mp4",
+   "poster": "media/ejercicios/press-inclinado-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-inclinado-barra",
+  "nombre": "Press inclinado con barra",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "hombro_frontal",
+   "triceps"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "6-10",
+  "descansoDefault": 120,
+  "unilateral": false,
+  "tecnica": [
+   "Banco a 30°",
+   "La barra baja a la parte alta del pecho",
+   "Mantené la espalda apoyada"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-inclinado-barra.mp4",
+   "poster": "media/ejercicios/press-inclinado-barra.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-pecho-maquina",
+  "nombre": "Press de pecho en máquina",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "triceps"
+  ],
+  "equipo": "maquina",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 75,
+  "unilateral": false,
+  "tecnica": [
+   "Ajustá el asiento: las manijas a la altura del pecho",
+   "Empujá sin despegar la espalda",
+   "Volvé lento"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-pecho-maquina.mp4",
+   "poster": "media/ejercicios/press-pecho-maquina.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "flexiones",
+  "nombre": "Flexiones de brazos",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "triceps",
+   "hombro_frontal",
+   "abdominales"
+  ],
+  "equipo": "peso corporal",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "8-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Cuerpo en línea recta, abdomen firme",
+   "Bajá el pecho hasta casi tocar el piso",
+   "Codos a 45°"
+  ],
+  "media": {
+   "video": "media/ejercicios/flexiones.mp4",
+   "poster": "media/ejercicios/flexiones.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "aperturas-mancuernas",
+  "nombre": "Aperturas con mancuernas",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "hombro_frontal"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Codos apenas flexionados y fijos",
+   "Abrí hasta sentir estirar el pecho",
+   "Cerrá como abrazando un árbol"
+  ],
+  "media": {
+   "video": "media/ejercicios/aperturas-mancuernas.mp4",
+   "poster": "media/ejercicios/aperturas-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "aperturas-inclinadas",
+  "nombre": "Aperturas inclinadas con mancuernas",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "hombro_frontal"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Banco a 30°",
+   "Movimiento amplio y controlado",
+   "Peso liviano, foco en el estiramiento"
+  ],
+  "media": {
+   "video": "media/ejercicios/aperturas-inclinadas.mp4",
+   "poster": "media/ejercicios/aperturas-inclinadas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "peck-deck",
+  "nombre": "Contractora (peck deck)",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Pecho afuera, hombros atrás",
+   "Juntá los brazos y apretá un segundo",
+   "No cierres de golpe"
+  ],
+  "media": {
+   "video": "media/ejercicios/peck-deck.mp4",
+   "poster": "media/ejercicios/peck-deck.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "cruce-poleas",
+  "nombre": "Cruce de poleas",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "hombro_frontal"
+  ],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Un pie adelante para estabilizarte",
+   "Cerrá las manos al frente apretando el pecho",
+   "Controlá la vuelta"
+  ],
+  "media": {
+   "video": "media/ejercicios/cruce-poleas.mp4",
+   "poster": "media/ejercicios/cruce-poleas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "pullover-mancuerna",
+  "nombre": "Pullover con mancuerna",
+  "modulo": "pecho",
+  "musculoPrincipal": "pecho",
+  "musculosSecundarios": [
+   "dorsal"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Brazos casi rectos",
+   "Bajá detrás de la cabeza hasta sentir el estiramiento",
+   "Subí con el pecho"
+  ],
+  "media": {
+   "video": "media/ejercicios/pullover-mancuerna.mp4",
+   "poster": "media/ejercicios/pullover-mancuerna.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "jalon-pecho",
+  "nombre": "Jalón al pecho",
+  "modulo": "espalda",
+  "musculoPrincipal": "dorsal",
+  "musculosSecundarios": [
+   "biceps",
+   "espalda_alta"
+  ],
+  "equipo": "polea",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 4,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Pecho arriba, tirá con los codos",
+   "Llevá la barra a la parte alta del pecho",
+   "No te balancees"
+  ],
+  "media": {
+   "video": "media/ejercicios/jalon-pecho.mp4",
+   "poster": "media/ejercicios/jalon-pecho.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "jalon-agarre-cerrado",
+  "nombre": "Jalón agarre cerrado",
+  "modulo": "espalda",
+  "musculoPrincipal": "dorsal",
+  "musculosSecundarios": [
+   "biceps"
+  ],
+  "equipo": "polea",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Agarre neutro, codos pegados al cuerpo",
+   "Bajá hasta el pecho",
+   "Subí lento sintiendo el dorsal"
+  ],
+  "media": {
+   "video": "media/ejercicios/jalon-agarre-cerrado.mp4",
+   "poster": "media/ejercicios/jalon-agarre-cerrado.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "dominadas-asistidas",
+  "nombre": "Dominadas asistidas",
+  "modulo": "espalda",
+  "musculoPrincipal": "dorsal",
+  "musculosSecundarios": [
+   "biceps",
+   "espalda_alta"
+  ],
+  "equipo": "maquina",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "6-10",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Empezá con los brazos extendidos",
+   "Subí el pecho hacia la barra",
+   "Bajá controlada, sin soltarte"
+  ],
+  "media": {
+   "video": "media/ejercicios/dominadas-asistidas.mp4",
+   "poster": "media/ejercicios/dominadas-asistidas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "remo-maquina",
+  "nombre": "Remo en máquina",
+  "modulo": "espalda",
+  "musculoPrincipal": "espalda_alta",
+  "musculosSecundarios": [
+   "dorsal",
+   "biceps"
+  ],
+  "equipo": "maquina",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 75,
+  "unilateral": false,
+  "tecnica": [
+   "Pecho apoyado, hombros lejos de las orejas",
+   "Llevá los codos hacia atrás",
+   "Apretá la espalda al final"
+  ],
+  "media": {
+   "video": "media/ejercicios/remo-maquina.mp4",
+   "poster": "media/ejercicios/remo-maquina.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "remo-barra",
+  "nombre": "Remo con barra",
+  "modulo": "espalda",
+  "musculoPrincipal": "espalda_alta",
+  "musculosSecundarios": [
+   "dorsal",
+   "biceps",
+   "espalda_baja"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 4,
+  "repsDefault": "6-10",
+  "descansoDefault": 120,
+  "unilateral": false,
+  "tecnica": [
+   "Torso inclinado a 45° y espalda neutra",
+   "Tirá hacia el ombligo",
+   "No uses envión"
+  ],
+  "media": {
+   "video": "media/ejercicios/remo-barra.mp4",
+   "poster": "media/ejercicios/remo-barra.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "remo-mancuerna-unilateral",
+  "nombre": "Remo con mancuerna a una mano",
+  "modulo": "espalda",
+  "musculoPrincipal": "dorsal",
+  "musculosSecundarios": [
+   "espalda_alta",
+   "biceps"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 75,
+  "unilateral": true,
+  "tecnica": [
+   "Apoyá mano y rodilla en el banco",
+   "Llevá el codo hacia la cadera",
+   "Evitá rotar el torso"
+  ],
+  "media": {
+   "video": "media/ejercicios/remo-mancuerna-unilateral.mp4",
+   "poster": "media/ejercicios/remo-mancuerna-unilateral.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "remo-polea-baja",
+  "nombre": "Remo en polea baja",
+  "modulo": "espalda",
+  "musculoPrincipal": "espalda_alta",
+  "musculosSecundarios": [
+   "dorsal",
+   "biceps"
+  ],
+  "equipo": "polea",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 75,
+  "unilateral": false,
+  "tecnica": [
+   "Espalda recta, sin balancearte",
+   "Llevá el agarre al abdomen",
+   "Estirá completo al volver"
+  ],
+  "media": {
+   "video": "media/ejercicios/remo-polea-baja.mp4",
+   "poster": "media/ejercicios/remo-polea-baja.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "vuelo-invertido-mancuernas",
+  "nombre": "Vuelo invertido con mancuernas",
+  "modulo": "espalda",
+  "musculoPrincipal": "espalda_alta",
+  "musculosSecundarios": [
+   "hombro_posterior"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Torso inclinado, espalda neutra",
+   "Abrí los brazos como alas",
+   "Peso liviano y sin envión"
+  ],
+  "media": {
+   "video": "media/ejercicios/vuelo-invertido-mancuernas.mp4",
+   "poster": "media/ejercicios/vuelo-invertido-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "face-pull",
+  "nombre": "Face pull",
+  "modulo": "espalda",
+  "musculoPrincipal": "espalda_alta",
+  "musculosSecundarios": [
+   "hombro_posterior"
+  ],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Polea a la altura de la cara",
+   "Tirá hacia la frente abriendo los codos",
+   "Rotá las manos hacia afuera al final"
+  ],
+  "media": {
+   "video": "media/ejercicios/face-pull.mp4",
+   "poster": "media/ejercicios/face-pull.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "pullover-polea",
+  "nombre": "Pullover en polea",
+  "modulo": "espalda",
+  "musculoPrincipal": "dorsal",
+  "musculosSecundarios": [],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Brazos casi rectos",
+   "Bajá la barra hacia los muslos",
+   "Sentí el dorsal, no los brazos"
+  ],
+  "media": {
+   "video": "media/ejercicios/pullover-polea.mp4",
+   "poster": "media/ejercicios/pullover-polea.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "peso-muerto",
+  "nombre": "Peso muerto convencional",
+  "modulo": "espalda",
+  "musculoPrincipal": "espalda_baja",
+  "musculosSecundarios": [
+   "gluteos",
+   "isquios",
+   "espalda_alta"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "avanzado",
+  "seriesDefault": 4,
+  "repsDefault": "5-8",
+  "descansoDefault": 150,
+  "unilateral": false,
+  "tecnica": [
+   "Barra pegada a las piernas",
+   "Espalda neutra, empujá el piso",
+   "Cerrá con la cadera, no con la espalda"
+  ],
+  "media": {
+   "video": "media/ejercicios/peso-muerto.mp4",
+   "poster": "media/ejercicios/peso-muerto.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "hiperextensiones",
+  "nombre": "Hiperextensiones",
+  "modulo": "espalda",
+  "musculoPrincipal": "espalda_baja",
+  "musculosSecundarios": [
+   "gluteos",
+   "isquios"
+  ],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Bajá con espalda recta",
+   "Subí hasta quedar en línea, sin hiperextender",
+   "Apretá glúteos arriba"
+  ],
+  "media": {
+   "video": "media/ejercicios/hiperextensiones.mp4",
+   "poster": "media/ejercicios/hiperextensiones.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "encogimientos-mancuernas",
+  "nombre": "Encogimientos con mancuernas",
+  "modulo": "espalda",
+  "musculoPrincipal": "espalda_alta",
+  "musculosSecundarios": [
+   "antebrazo"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Subí los hombros hacia las orejas",
+   "Pausa de un segundo arriba",
+   "No rotes los hombros"
+  ],
+  "media": {
+   "video": "media/ejercicios/encogimientos-mancuernas.mp4",
+   "poster": "media/ejercicios/encogimientos-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-militar-mancuernas",
+  "nombre": "Press militar con mancuernas",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_frontal",
+  "musculosSecundarios": [
+   "hombro_lateral",
+   "triceps"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 4,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Abdomen firme, no arquees la espalda",
+   "Subí sin chocar las mancuernas",
+   "Bajá hasta la altura de las orejas"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-militar-mancuernas.mp4",
+   "poster": "media/ejercicios/press-militar-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-militar-barra",
+  "nombre": "Press militar con barra",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_frontal",
+  "musculosSecundarios": [
+   "hombro_lateral",
+   "triceps"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "avanzado",
+  "seriesDefault": 4,
+  "repsDefault": "6-10",
+  "descansoDefault": 120,
+  "unilateral": false,
+  "tecnica": [
+   "Glúteos y abdomen apretados",
+   "Pasá la cabeza por delante de la barra",
+   "Bloqueá arriba sin arquear"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-militar-barra.mp4",
+   "poster": "media/ejercicios/press-militar-barra.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-hombros-maquina",
+  "nombre": "Press de hombros en máquina",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_frontal",
+  "musculosSecundarios": [
+   "hombro_lateral",
+   "triceps"
+  ],
+  "equipo": "maquina",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 75,
+  "unilateral": false,
+  "tecnica": [
+   "Asiento a la altura de los hombros",
+   "Empujá sin despegar la espalda",
+   "Bajá controlado"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-hombros-maquina.mp4",
+   "poster": "media/ejercicios/press-hombros-maquina.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "arnold-press",
+  "nombre": "Press Arnold",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_frontal",
+  "musculosSecundarios": [
+   "hombro_lateral",
+   "triceps"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Empezá con las palmas hacia vos",
+   "Rotá mientras subís",
+   "Movimiento fluido y controlado"
+  ],
+  "media": {
+   "video": "media/ejercicios/arnold-press.mp4",
+   "poster": "media/ejercicios/arnold-press.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "remo-al-menton",
+  "nombre": "Remo al mentón",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_lateral",
+  "musculosSecundarios": [
+   "espalda_alta",
+   "biceps"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 75,
+  "unilateral": false,
+  "tecnica": [
+   "Agarre un poco más ancho que los hombros",
+   "Codos arriba de las muñecas",
+   "Subí hasta el pecho, no más"
+  ],
+  "media": {
+   "video": "media/ejercicios/remo-al-menton.mp4",
+   "poster": "media/ejercicios/remo-al-menton.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "elevacion-lateral",
+  "nombre": "Elevación lateral",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_lateral",
+  "musculosSecundarios": [],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Codo apenas flexionado",
+   "Subí hasta la altura del hombro",
+   "Bajá lento, sin balanceo"
+  ],
+  "media": {
+   "video": "media/ejercicios/elevacion-lateral.mp4",
+   "poster": "media/ejercicios/elevacion-lateral.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "vuelo-lateral-mancuernas",
+  "nombre": "Vuelo lateral con mancuernas",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_lateral",
+  "musculosSecundarios": [
+   "hombro_posterior"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Sentado o inclinado levemente",
+   "Abrí los brazos al costado",
+   "Pausa corta arriba"
+  ],
+  "media": {
+   "video": "media/ejercicios/vuelo-lateral-mancuernas.mp4",
+   "poster": "media/ejercicios/vuelo-lateral-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "elevacion-lateral-polea",
+  "nombre": "Elevación lateral en polea",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_lateral",
+  "musculosSecundarios": [],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": true,
+  "tecnica": [
+   "Polea baja cruzada al cuerpo",
+   "Tensión constante todo el recorrido",
+   "Subí hasta el hombro"
+  ],
+  "media": {
+   "video": "media/ejercicios/elevacion-lateral-polea.mp4",
+   "poster": "media/ejercicios/elevacion-lateral-polea.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "elevacion-frontal",
+  "nombre": "Elevación frontal con disco",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_frontal",
+  "musculosSecundarios": [],
+  "equipo": "disco",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Brazos casi rectos",
+   "Subí hasta la altura de los ojos",
+   "No uses el cuerpo para impulsar"
+  ],
+  "media": {
+   "video": "media/ejercicios/elevacion-frontal.mp4",
+   "poster": "media/ejercicios/elevacion-frontal.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "vuelo-posterior-maquina",
+  "nombre": "Vuelo posterior en máquina",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_posterior",
+  "musculosSecundarios": [
+   "espalda_alta"
+  ],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Pecho apoyado en el respaldo",
+   "Abrí los brazos hacia atrás",
+   "Apretá un segundo"
+  ],
+  "media": {
+   "video": "media/ejercicios/vuelo-posterior-maquina.mp4",
+   "poster": "media/ejercicios/vuelo-posterior-maquina.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "elevacion-posterior-polea",
+  "nombre": "Elevación posterior en polea",
+  "modulo": "hombros",
+  "musculoPrincipal": "hombro_posterior",
+  "musculosSecundarios": [
+   "espalda_alta"
+  ],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": true,
+  "tecnica": [
+   "Polea cruzada, brazos a la altura del hombro",
+   "Abrí hacia atrás sin girar el torso",
+   "Control en la vuelta"
+  ],
+  "media": {
+   "video": "media/ejercicios/elevacion-posterior-polea.mp4",
+   "poster": "media/ejercicios/elevacion-posterior-polea.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-barra-z",
+  "nombre": "Curl con barra Z",
+  "modulo": "brazos",
+  "musculoPrincipal": "biceps",
+  "musculosSecundarios": [
+   "antebrazo"
+  ],
+  "equipo": "barra",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 75,
+  "unilateral": false,
+  "tecnica": [
+   "Codos pegados a las costillas",
+   "Subí sin balancear el cuerpo",
+   "Bajá lento hasta extender"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-barra-z.mp4",
+   "poster": "media/ejercicios/curl-barra-z.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-mancuernas",
+  "nombre": "Curl de bíceps con mancuernas",
+  "modulo": "brazos",
+  "musculoPrincipal": "biceps",
+  "musculosSecundarios": [
+   "antebrazo"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Rotá la muñeca al subir",
+   "Codos quietos",
+   "Bajá en 2 o 3 segundos"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-mancuernas.mp4",
+   "poster": "media/ejercicios/curl-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-martillo",
+  "nombre": "Curl martillo",
+  "modulo": "brazos",
+  "musculoPrincipal": "biceps",
+  "musculosSecundarios": [
+   "antebrazo"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Palmas enfrentadas todo el recorrido",
+   "Codos pegados",
+   "No balancees"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-martillo.mp4",
+   "poster": "media/ejercicios/curl-martillo.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-predicador",
+  "nombre": "Curl predicador",
+  "modulo": "brazos",
+  "musculoPrincipal": "biceps",
+  "musculosSecundarios": [],
+  "equipo": "barra",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Brazos bien apoyados en el banco",
+   "No bloquees abajo del todo",
+   "Subí sin despegar los codos"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-predicador.mp4",
+   "poster": "media/ejercicios/curl-predicador.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-concentrado",
+  "nombre": "Curl concentrado",
+  "modulo": "brazos",
+  "musculoPrincipal": "biceps",
+  "musculosSecundarios": [],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 60,
+  "unilateral": true,
+  "tecnica": [
+   "Codo apoyado en la cara interna del muslo",
+   "Subí apretando el bíceps",
+   "Bajá lento"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-concentrado.mp4",
+   "poster": "media/ejercicios/curl-concentrado.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-polea-baja",
+  "nombre": "Curl en polea baja",
+  "modulo": "brazos",
+  "musculoPrincipal": "biceps",
+  "musculosSecundarios": [
+   "antebrazo"
+  ],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Tensión constante",
+   "Codos fijos",
+   "Apretá arriba"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-polea-baja.mp4",
+   "poster": "media/ejercicios/curl-polea-baja.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-inclinado",
+  "nombre": "Curl inclinado con mancuernas",
+  "modulo": "brazos",
+  "musculoPrincipal": "biceps",
+  "musculosSecundarios": [],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Banco a 45°, brazos colgando",
+   "Estirá bien abajo",
+   "Subí sin mover los hombros"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-inclinado.mp4",
+   "poster": "media/ejercicios/curl-inclinado.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "extension-triceps-polea",
+  "nombre": "Extensión de tríceps en polea",
+  "modulo": "brazos",
+  "musculoPrincipal": "triceps",
+  "musculosSecundarios": [],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Codos pegados al cuerpo",
+   "Extendé completo y apretá",
+   "Subí controlado"
+  ],
+  "media": {
+   "video": "media/ejercicios/extension-triceps-polea.mp4",
+   "poster": "media/ejercicios/extension-triceps-polea.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "extension-overhead-disco",
+  "nombre": "Extensión overhead con disco",
+  "modulo": "brazos",
+  "musculoPrincipal": "triceps",
+  "musculosSecundarios": [],
+  "equipo": "disco",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Disco con las dos manos detrás de la cabeza",
+   "Codos apuntando al frente",
+   "Extendé arriba sin arquear"
+  ],
+  "media": {
+   "video": "media/ejercicios/extension-overhead-disco.mp4",
+   "poster": "media/ejercicios/extension-overhead-disco.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-frances",
+  "nombre": "Press francés",
+  "modulo": "brazos",
+  "musculoPrincipal": "triceps",
+  "musculosSecundarios": [],
+  "equipo": "barra",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 75,
+  "unilateral": false,
+  "tecnica": [
+   "Codos fijos apuntando al techo",
+   "Bajá la barra hacia la frente",
+   "Extendé sin abrir los codos"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-frances.mp4",
+   "poster": "media/ejercicios/press-frances.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "fondos-banco",
+  "nombre": "Fondos en banco",
+  "modulo": "brazos",
+  "musculoPrincipal": "triceps",
+  "musculosSecundarios": [
+   "hombro_frontal",
+   "pecho"
+  ],
+  "equipo": "peso corporal",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "8-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Espalda cerca del banco",
+   "Bajá hasta 90° en los codos",
+   "Empujá con los tríceps"
+  ],
+  "media": {
+   "video": "media/ejercicios/fondos-banco.mp4",
+   "poster": "media/ejercicios/fondos-banco.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "patada-triceps",
+  "nombre": "Patada de tríceps",
+  "modulo": "brazos",
+  "musculoPrincipal": "triceps",
+  "musculosSecundarios": [],
+  "equipo": "mancuernas",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": true,
+  "tecnica": [
+   "Codo pegado al torso y arriba",
+   "Extendé el antebrazo hacia atrás",
+   "Apretá un segundo"
+  ],
+  "media": {
+   "video": "media/ejercicios/patada-triceps.mp4",
+   "poster": "media/ejercicios/patada-triceps.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "press-cerrado",
+  "nombre": "Press de banca agarre cerrado",
+  "modulo": "brazos",
+  "musculoPrincipal": "triceps",
+  "musculosSecundarios": [
+   "pecho"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "8-10",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Manos al ancho de los hombros",
+   "Codos pegados al cuerpo",
+   "Bajá al pecho bajo"
+  ],
+  "media": {
+   "video": "media/ejercicios/press-cerrado.mp4",
+   "poster": "media/ejercicios/press-cerrado.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "extension-cuerda-overhead",
+  "nombre": "Extensión de tríceps con cuerda overhead",
+  "modulo": "brazos",
+  "musculoPrincipal": "triceps",
+  "musculosSecundarios": [],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "De espaldas a la polea, codos cerca de la cabeza",
+   "Extendé hacia adelante",
+   "Estirá bien al volver"
+  ],
+  "media": {
+   "video": "media/ejercicios/extension-cuerda-overhead.mp4",
+   "poster": "media/ejercicios/extension-cuerda-overhead.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-muneca",
+  "nombre": "Curl de muñeca",
+  "modulo": "brazos",
+  "musculoPrincipal": "antebrazo",
+  "musculosSecundarios": [],
+  "equipo": "barra",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "15-20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Antebrazos apoyados en las piernas",
+   "Subí y bajá solo con la muñeca",
+   "Recorrido completo"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-muneca.mp4",
+   "poster": "media/ejercicios/curl-muneca.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-inverso",
+  "nombre": "Curl inverso",
+  "modulo": "brazos",
+  "musculoPrincipal": "antebrazo",
+  "musculosSecundarios": [
+   "biceps"
+  ],
+  "equipo": "barra",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Agarre por arriba",
+   "Codos fijos",
+   "Subí sin doblar las muñecas"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-inverso.mp4",
+   "poster": "media/ejercicios/curl-inverso.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "paseo-granjero",
+  "nombre": "Paseo del granjero",
+  "modulo": "brazos",
+  "musculoPrincipal": "antebrazo",
+  "musculosSecundarios": [
+   "espalda_alta",
+   "abdominales"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "30 s",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Hombros atrás y pecho arriba",
+   "Pasos cortos y firmes",
+   "Agarrá fuerte sin soltar"
+  ],
+  "media": {
+   "video": "media/ejercicios/paseo-granjero.mp4",
+   "poster": "media/ejercicios/paseo-granjero.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "sentadilla-barra",
+  "nombre": "Sentadilla con barra",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [
+   "gluteos",
+   "espalda_baja"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "avanzado",
+  "seriesDefault": 4,
+  "repsDefault": "5-8",
+  "descansoDefault": 150,
+  "unilateral": false,
+  "tecnica": [
+   "Pecho arriba y espalda neutra",
+   "Bajá hasta paralelo o más",
+   "Rodillas siguen la línea de los pies"
+  ],
+  "media": {
+   "video": "media/ejercicios/sentadilla-barra.mp4",
+   "poster": "media/ejercicios/sentadilla-barra.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "sentadilla-goblet",
+  "nombre": "Sentadilla goblet",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Mancuerna pegada al pecho",
+   "Codos adentro de las rodillas",
+   "Bajá profundo con talones apoyados"
+  ],
+  "media": {
+   "video": "media/ejercicios/sentadilla-goblet.mp4",
+   "poster": "media/ejercicios/sentadilla-goblet.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "prensa-piernas",
+  "nombre": "Prensa de piernas",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "maquina",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 4,
+  "repsDefault": "10-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Espalda baja pegada al respaldo",
+   "Bajá hasta 90° sin despegar la cadera",
+   "No bloquees las rodillas arriba"
+  ],
+  "media": {
+   "video": "media/ejercicios/prensa-piernas.mp4",
+   "poster": "media/ejercicios/prensa-piernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "sentadilla-hack",
+  "nombre": "Sentadilla hack",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "maquina",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Pies al ancho de los hombros",
+   "Bajá controlado",
+   "Empujá con todo el pie"
+  ],
+  "media": {
+   "video": "media/ejercicios/sentadilla-hack.mp4",
+   "poster": "media/ejercicios/sentadilla-hack.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "sentadilla-smith",
+  "nombre": "Sentadilla en Smith",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "maquina",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Pies un poco adelantados",
+   "Espalda apoyada y recta",
+   "Bajá hasta paralelo"
+  ],
+  "media": {
+   "video": "media/ejercicios/sentadilla-smith.mp4",
+   "poster": "media/ejercicios/sentadilla-smith.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "sentadilla-bulgara",
+  "nombre": "Sentadilla búlgara",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [
+   "gluteos",
+   "isquios"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": true,
+  "tecnica": [
+   "Pie de atrás apoyado en el banco",
+   "Torso levemente inclinado para más glúteo",
+   "Bajá vertical, rodilla estable"
+  ],
+  "media": {
+   "video": "media/ejercicios/sentadilla-bulgara.mp4",
+   "poster": "media/ejercicios/sentadilla-bulgara.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "zancadas-caminando",
+  "nombre": "Zancadas caminando",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10 por pierna",
+  "descansoDefault": 75,
+  "unilateral": true,
+  "tecnica": [
+   "Pasos largos y torso erguido",
+   "Rodilla de atrás casi toca el piso",
+   "Empujá con el talón de adelante"
+  ],
+  "media": {
+   "video": "media/ejercicios/zancadas-caminando.mp4",
+   "poster": "media/ejercicios/zancadas-caminando.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "step-up",
+  "nombre": "Step up al cajón",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10 por pierna",
+  "descansoDefault": 75,
+  "unilateral": true,
+  "tecnica": [
+   "Todo el pie sobre el cajón",
+   "Subí con la pierna de arriba, sin impulso",
+   "Bajá lento"
+  ],
+  "media": {
+   "video": "media/ejercicios/step-up.mp4",
+   "poster": "media/ejercicios/step-up.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "extension-cuadriceps",
+  "nombre": "Extensión de cuádriceps",
+  "modulo": "piernas",
+  "musculoPrincipal": "cuadriceps",
+  "musculosSecundarios": [],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Ajustá el respaldo: rodillas en el borde",
+   "Extendé y apretá un segundo",
+   "Bajá lento"
+  ],
+  "media": {
+   "video": "media/ejercicios/extension-cuadriceps.mp4",
+   "poster": "media/ejercicios/extension-cuadriceps.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "peso-muerto-rumano",
+  "nombre": "Peso muerto rumano",
+  "modulo": "piernas",
+  "musculoPrincipal": "isquios",
+  "musculosSecundarios": [
+   "gluteos",
+   "espalda_baja"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 4,
+  "repsDefault": "8-10",
+  "descansoDefault": 120,
+  "unilateral": false,
+  "tecnica": [
+   "Llevá la cadera atrás, rodillas apenas flexionadas",
+   "Barra pegada a las piernas",
+   "Bajá hasta sentir estirar los isquios"
+  ],
+  "media": {
+   "video": "media/ejercicios/peso-muerto-rumano.mp4",
+   "poster": "media/ejercicios/peso-muerto-rumano.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "peso-muerto-rigido-mancuernas",
+  "nombre": "Peso muerto rígido con mancuernas",
+  "modulo": "piernas",
+  "musculoPrincipal": "isquios",
+  "musculosSecundarios": [
+   "gluteos",
+   "espalda_baja"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Espalda recta todo el movimiento",
+   "Empujá la cadera atrás",
+   "Subí apretando glúteos"
+  ],
+  "media": {
+   "video": "media/ejercicios/peso-muerto-rigido-mancuernas.mp4",
+   "poster": "media/ejercicios/peso-muerto-rigido-mancuernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-femoral-sentado",
+  "nombre": "Curl femoral",
+  "modulo": "piernas",
+  "musculoPrincipal": "isquios",
+  "musculosSecundarios": [],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Cadera bien apoyada",
+   "Flexioná y apretá",
+   "Volvé lento sin soltar"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-femoral-sentado.mp4",
+   "poster": "media/ejercicios/curl-femoral-sentado.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "curl-femoral-acostado",
+  "nombre": "Curl femoral acostado",
+  "modulo": "piernas",
+  "musculoPrincipal": "isquios",
+  "musculosSecundarios": [],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Cadera pegada al banco",
+   "Subí sin despegar la pelvis",
+   "Bajá en 3 segundos"
+  ],
+  "media": {
+   "video": "media/ejercicios/curl-femoral-acostado.mp4",
+   "poster": "media/ejercicios/curl-femoral-acostado.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "aduccion-cadera",
+  "nombre": "Aducción de cadera",
+  "modulo": "piernas",
+  "musculoPrincipal": "aductores",
+  "musculosSecundarios": [],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Espalda apoyada",
+   "Cerrá las piernas apretando",
+   "Abrí lento"
+  ],
+  "media": {
+   "video": "media/ejercicios/aduccion-cadera.mp4",
+   "poster": "media/ejercicios/aduccion-cadera.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "aduccion-polea",
+  "nombre": "Aducción en polea",
+  "modulo": "piernas",
+  "musculoPrincipal": "aductores",
+  "musculosSecundarios": [],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": true,
+  "tecnica": [
+   "Tobillera en la pierna de trabajo",
+   "Cruzá la pierna hacia adentro",
+   "Control al volver"
+  ],
+  "media": {
+   "video": "media/ejercicios/aduccion-polea.mp4",
+   "poster": "media/ejercicios/aduccion-polea.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "abductores-maquina",
+  "nombre": "Abductores en máquina",
+  "modulo": "piernas",
+  "musculoPrincipal": "abductores",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Torso levemente inclinado adelante para más glúteo",
+   "Abrí y apretá un segundo",
+   "Volvé lento"
+  ],
+  "media": {
+   "video": "media/ejercicios/abductores-maquina.mp4",
+   "poster": "media/ejercicios/abductores-maquina.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "abduccion-polea",
+  "nombre": "Abducción en polea",
+  "modulo": "piernas",
+  "musculoPrincipal": "abductores",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": true,
+  "tecnica": [
+   "Sostenete firme",
+   "Llevá la pierna al costado sin girar la cadera",
+   "Volvé controlado"
+  ],
+  "media": {
+   "video": "media/ejercicios/abduccion-polea.mp4",
+   "poster": "media/ejercicios/abduccion-polea.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "caminata-lateral-banda",
+  "nombre": "Caminata lateral con banda",
+  "modulo": "piernas",
+  "musculoPrincipal": "abductores",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "banda",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12 pasos",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Rodillas apenas flexionadas",
+   "Pasos cortos, banda siempre tensa",
+   "No te inclines"
+  ],
+  "media": {
+   "video": "media/ejercicios/caminata-lateral-banda.mp4",
+   "poster": "media/ejercicios/caminata-lateral-banda.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "pantorrilla-de-pie",
+  "nombre": "Pantorrilla",
+  "modulo": "piernas",
+  "musculoPrincipal": "pantorrillas",
+  "musculosSecundarios": [],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 4,
+  "repsDefault": "12-20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Subí lo más alto posible",
+   "Pausa arriba y estiramiento abajo",
+   "Sin rebotar"
+  ],
+  "media": {
+   "video": "media/ejercicios/pantorrilla-de-pie.mp4",
+   "poster": "media/ejercicios/pantorrilla-de-pie.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "pantorrilla-sentado",
+  "nombre": "Pantorrilla sentado",
+  "modulo": "piernas",
+  "musculoPrincipal": "pantorrillas",
+  "musculosSecundarios": [],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "15-20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Rodillas a 90°",
+   "Recorrido completo",
+   "Controlá la bajada"
+  ],
+  "media": {
+   "video": "media/ejercicios/pantorrilla-sentado.mp4",
+   "poster": "media/ejercicios/pantorrilla-sentado.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "pantorrilla-prensa",
+  "nombre": "Pantorrilla en prensa",
+  "modulo": "piernas",
+  "musculoPrincipal": "pantorrillas",
+  "musculosSecundarios": [],
+  "equipo": "maquina",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "15-20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Rodillas casi extendidas, sin bloquear",
+   "Empujá con la punta del pie",
+   "Estirá bien abajo"
+  ],
+  "media": {
+   "video": "media/ejercicios/pantorrilla-prensa.mp4",
+   "poster": "media/ejercicios/pantorrilla-prensa.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "hip-thrust-maquina",
+  "nombre": "Hip thrust en máquina",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "isquios"
+  ],
+  "equipo": "maquina",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 4,
+  "repsDefault": "8-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Mentón al pecho, mirada al frente",
+   "Subí hasta que el torso quede paralelo",
+   "Apretá glúteos arriba un segundo"
+  ],
+  "media": {
+   "video": "media/ejercicios/hip-thrust-maquina.mp4",
+   "poster": "media/ejercicios/hip-thrust-maquina.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "hip-thrust-barra",
+  "nombre": "Hip thrust con barra",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "isquios"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 4,
+  "repsDefault": "8-12",
+  "descansoDefault": 120,
+  "unilateral": false,
+  "tecnica": [
+   "Espalda alta apoyada en el banco",
+   "Rodillas a 90° arriba",
+   "No hiperextiendas la zona lumbar"
+  ],
+  "media": {
+   "video": "media/ejercicios/hip-thrust-barra.mp4",
+   "poster": "media/ejercicios/hip-thrust-barra.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "puente-gluteos",
+  "nombre": "Puente de glúteos",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "isquios"
+  ],
+  "equipo": "peso corporal",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Talones cerca de la cola",
+   "Subí la cadera apretando",
+   "Bajá sin apoyar del todo"
+  ],
+  "media": {
+   "video": "media/ejercicios/puente-gluteos.mp4",
+   "poster": "media/ejercicios/puente-gluteos.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "puente-unilateral",
+  "nombre": "Puente de glúteos a una pierna",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "isquios"
+  ],
+  "equipo": "peso corporal",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10 por pierna",
+  "descansoDefault": 60,
+  "unilateral": true,
+  "tecnica": [
+   "Cadera nivelada",
+   "Empujá con el talón",
+   "Subí lento y apretá"
+  ],
+  "media": {
+   "video": "media/ejercicios/puente-unilateral.mp4",
+   "poster": "media/ejercicios/puente-unilateral.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "sentadilla-sumo",
+  "nombre": "Sentadilla sumo",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "aductores",
+   "cuadriceps"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10-12",
+  "descansoDefault": 90,
+  "unilateral": false,
+  "tecnica": [
+   "Pies bien abiertos, puntas afuera",
+   "Rodillas siguen las puntas",
+   "Subí apretando glúteos"
+  ],
+  "media": {
+   "video": "media/ejercicios/sentadilla-sumo.mp4",
+   "poster": "media/ejercicios/sentadilla-sumo.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "peso-muerto-sumo",
+  "nombre": "Peso muerto sumo",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "aductores",
+   "isquios",
+   "espalda_baja"
+  ],
+  "equipo": "barra",
+  "tipo": "compuesto",
+  "nivel": "avanzado",
+  "seriesDefault": 4,
+  "repsDefault": "6-8",
+  "descansoDefault": 150,
+  "unilateral": false,
+  "tecnica": [
+   "Pies abiertos y espalda neutra",
+   "Empujá el piso hacia afuera",
+   "Cerrá con la cadera"
+  ],
+  "media": {
+   "video": "media/ejercicios/peso-muerto-sumo.mp4",
+   "poster": "media/ejercicios/peso-muerto-sumo.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "estocada-reversa",
+  "nombre": "Estocada reversa",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "cuadriceps"
+  ],
+  "equipo": "mancuernas",
+  "tipo": "compuesto",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "10 por pierna",
+  "descansoDefault": 75,
+  "unilateral": true,
+  "tecnica": [
+   "Paso largo hacia atrás",
+   "Torso levemente inclinado",
+   "Empujá con el talón de adelante"
+  ],
+  "media": {
+   "video": "media/ejercicios/estocada-reversa.mp4",
+   "poster": "media/ejercicios/estocada-reversa.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "patada-gluteo-polea",
+  "nombre": "Patada de glúteo en polea",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "isquios"
+  ],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": true,
+  "tecnica": [
+   "Apoyate sin arquear la espalda",
+   "Llevá la pierna atrás apretando",
+   "Volvé sin soltar la tensión"
+  ],
+  "media": {
+   "video": "media/ejercicios/patada-gluteo-polea.mp4",
+   "poster": "media/ejercicios/patada-gluteo-polea.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "patada-cuadrupedia",
+  "nombre": "Patada en cuadrupedia con banda",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [],
+  "equipo": "banda",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "15 por pierna",
+  "descansoDefault": 45,
+  "unilateral": true,
+  "tecnica": [
+   "Espalda neutra, abdomen firme",
+   "Patada atrás sin rotar la cadera",
+   "Pausa arriba"
+  ],
+  "media": {
+   "video": "media/ejercicios/patada-cuadrupedia.mp4",
+   "poster": "media/ejercicios/patada-cuadrupedia.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "hiperextension-gluteos",
+  "nombre": "Hiperextensión enfocada en glúteos",
+  "modulo": "gluteos",
+  "musculoPrincipal": "gluteos",
+  "musculosSecundarios": [
+   "isquios",
+   "espalda_baja"
+  ],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Redondeá levemente la espalda alta",
+   "Subí con la cadera",
+   "Apretá glúteos arriba"
+  ],
+  "media": {
+   "video": "media/ejercicios/hiperextension-gluteos.mp4",
+   "poster": "media/ejercicios/hiperextension-gluteos.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "abduccion-sentada-banda",
+  "nombre": "Abducción sentada con banda",
+  "modulo": "gluteos",
+  "musculoPrincipal": "abductores",
+  "musculosSecundarios": [
+   "gluteos"
+  ],
+  "equipo": "banda",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Banda sobre las rodillas",
+   "Abrí y mantené 1 segundo",
+   "Volvé controlado"
+  ],
+  "media": {
+   "video": "media/ejercicios/abduccion-sentada-banda.mp4",
+   "poster": "media/ejercicios/abduccion-sentada-banda.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "crunch-abdominal",
+  "nombre": "Crunch abdominal",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "15-20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Lumbar apoyada en el piso",
+   "Subí enrollando el torso",
+   "No tires del cuello"
+  ],
+  "media": {
+   "video": "media/ejercicios/crunch-abdominal.mp4",
+   "poster": "media/ejercicios/crunch-abdominal.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "plancha",
+  "nombre": "Plancha",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [
+   "hombro_frontal"
+  ],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "30 s",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Cuerpo en línea recta",
+   "Glúteos y abdomen apretados",
+   "Respirá sin aguantar el aire"
+  ],
+  "media": {
+   "video": "media/ejercicios/plancha.mp4",
+   "poster": "media/ejercicios/plancha.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "plancha-lateral",
+  "nombre": "Plancha lateral",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [
+   "abductores"
+  ],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "20 s por lado",
+  "descansoDefault": 45,
+  "unilateral": true,
+  "tecnica": [
+   "Codo abajo del hombro",
+   "Cadera arriba, cuerpo recto",
+   "Mirada al frente"
+  ],
+  "media": {
+   "video": "media/ejercicios/plancha-lateral.mp4",
+   "poster": "media/ejercicios/plancha-lateral.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "elevacion-piernas",
+  "nombre": "Elevación de piernas",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Lumbar pegada al piso",
+   "Subí las piernas casi rectas",
+   "Bajá sin apoyar los talones"
+  ],
+  "media": {
+   "video": "media/ejercicios/elevacion-piernas.mp4",
+   "poster": "media/ejercicios/elevacion-piernas.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "crunch-polea",
+  "nombre": "Crunch en polea",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [],
+  "equipo": "polea",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Arrodillado, cuerda a los lados de la cabeza",
+   "Enrollá el torso hacia las rodillas",
+   "Caderas fijas"
+  ],
+  "media": {
+   "video": "media/ejercicios/crunch-polea.mp4",
+   "poster": "media/ejercicios/crunch-polea.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "bicicleta-abdominal",
+  "nombre": "Bicicleta abdominal",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Codo hacia la rodilla contraria",
+   "Movimiento lento y controlado",
+   "Lumbar apoyada"
+  ],
+  "media": {
+   "video": "media/ejercicios/bicicleta-abdominal.mp4",
+   "poster": "media/ejercicios/bicicleta-abdominal.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "russian-twist",
+  "nombre": "Giros rusos",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [],
+  "equipo": "disco",
+  "tipo": "aislamiento",
+  "nivel": "intermedio",
+  "seriesDefault": 3,
+  "repsDefault": "20",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Torso inclinado atrás, espalda recta",
+   "Girá desde el torso, no solo los brazos",
+   "Pies apoyados o elevados"
+  ],
+  "media": {
+   "video": "media/ejercicios/russian-twist.mp4",
+   "poster": "media/ejercicios/russian-twist.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "rueda-abdominal",
+  "nombre": "Rueda abdominal",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [
+   "dorsal"
+  ],
+  "equipo": "rueda",
+  "tipo": "aislamiento",
+  "nivel": "avanzado",
+  "seriesDefault": 3,
+  "repsDefault": "8-12",
+  "descansoDefault": 60,
+  "unilateral": false,
+  "tecnica": [
+   "Abdomen contraído todo el tiempo",
+   "Avanzá hasta donde controles",
+   "Volvé sin arquear la lumbar"
+  ],
+  "media": {
+   "video": "media/ejercicios/rueda-abdominal.mp4",
+   "poster": "media/ejercicios/rueda-abdominal.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "dead-bug",
+  "nombre": "Dead bug",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "10 por lado",
+  "descansoDefault": 45,
+  "unilateral": true,
+  "tecnica": [
+   "Lumbar pegada al piso",
+   "Extendé brazo y pierna contrarios",
+   "Lento y controlado"
+  ],
+  "media": {
+   "video": "media/ejercicios/dead-bug.mp4",
+   "poster": "media/ejercicios/dead-bug.jpg",
+   "imagenes": []
+  }
+ },
+ {
+  "id": "crunch-inverso",
+  "nombre": "Crunch inverso",
+  "modulo": "abdominales",
+  "musculoPrincipal": "abdominales",
+  "musculosSecundarios": [],
+  "equipo": "peso corporal",
+  "tipo": "aislamiento",
+  "nivel": "principiante",
+  "seriesDefault": 3,
+  "repsDefault": "12-15",
+  "descansoDefault": 45,
+  "unilateral": false,
+  "tecnica": [
+   "Subí la cadera enrollando",
+   "No tomes impulso",
+   "Bajá lento"
+  ],
+  "media": {
+   "video": "media/ejercicios/crunch-inverso.mp4",
+   "poster": "media/ejercicios/crunch-inverso.jpg",
+   "imagenes": []
+  }
+ }
+]
